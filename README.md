@@ -18,4 +18,5 @@
 
 ## PowerBI Dashboard
 
-![image](https://github.com/user-attachments/assets/f674b786-5e76-4c35-bde4-de74ac700ad9)
+![image](https://github.com/user-attachments/assets/cd989f27-9e29-4aa6-96e1-786e05c30c0b)
+
