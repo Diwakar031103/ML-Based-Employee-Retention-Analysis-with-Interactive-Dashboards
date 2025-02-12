@@ -16,5 +16,3 @@
   
 * Achieved high prediction accuracy and provided data-driven recommendations to reduce employee turnover.
 
-![image](https://github.com/user-attachments/assets/15a86b39-a528-4e18-aea5-10fb94fbb4f7)
-
