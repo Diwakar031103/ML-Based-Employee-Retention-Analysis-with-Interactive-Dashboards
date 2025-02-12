@@ -1,5 +1,7 @@
 #### ML-Based-Employee-Retention-Analysis-with-Interactive-Dashboards
 
+![image](https://github.com/user-attachments/assets/f674b786-5e76-4c35-bde4-de74ac700ad9)
+
 * Developed an interactive Power BI dashboard to analyze employee retention trends across departments.
   
 * Identified key factors affecting retention, such as work accidents, project load, promotions, and satisfaction levels.
