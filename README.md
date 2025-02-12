@@ -1,4 +1,4 @@
-### ML-Based-Employee-Retention-Analysis-with-Interactive-Dashboards
+## ML-Based-Employee-Retention-Analysis-with-Interactive-Dashboards
 
 * Developed an interactive Power BI dashboard to analyze employee retention trends across departments.
   
@@ -15,5 +15,7 @@
 * Evaluated models using Accuracy, Confusion Matrix, and Classification Reports to select the best-performing approach.
   
 * Achieved high prediction accuracy and provided data-driven recommendations to reduce employee turnover.
+
+## PowerBI Dashboard
 
 ![image](https://github.com/user-attachments/assets/f674b786-5e76-4c35-bde4-de74ac700ad9)
