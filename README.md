@@ -3,6 +3,8 @@
 * Developed an interactive Power BI dashboard to analyze employee retention trends across departments.
   
 * Identified key factors affecting retention, such as work accidents, project load, promotions, and satisfaction levels.
+
+* Explored critical HR metrics, such as work accidents (15K+ cases), project workload (57K+ projects), and promotions (319 in the last 5 years) to assess their impact on retention.
   
 * Conducted exploratory data analysis (EDA), visualizing trends in employee satisfaction, work hours, and performance evaluations to uncover patterns.
 
